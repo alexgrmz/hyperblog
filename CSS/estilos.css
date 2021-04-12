@@ -1,9 +1,13 @@
 body {
     text-align: center;
     font-family: Arial;
+<<<<<<< HEAD
     color:blue;
+=======
+    color: red;
+>>>>>>> cabecera
 
-}
+ }
 
 #cabecera 
 {
