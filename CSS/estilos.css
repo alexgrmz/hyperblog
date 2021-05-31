@@ -35,3 +35,15 @@ body {
 #post {
     padding: 1em;
 }
+
+#footer {
+    background: rgb(18, 18, 83);
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+    border: 1px solid #DDD;
+    color: white;
+    font-weight: bold;
+    margin: 0 auto;
+    padding: 0.5em; 
+    text-align: center;
+
+}
